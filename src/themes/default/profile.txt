@@ -1,0 +1,8 @@
+{ name }
+
+{ twitter }
+{ linkedin }
+{ instagram }
+{ email }
+{ website }
+{ github }
